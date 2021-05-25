@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
 const Header = () => {
     return (
         <div className="header">
-            {/* logo at the left */}
+
             <Link to="/">
                 <img
                     className="header__logo"
@@ -15,12 +15,12 @@ const Header = () => {
                     alt="amazon-logo"
                 />
             </Link>
-            {/* search box */}
+
             <div className="header__search">
                 <input className="header__searchInput" />
                 <SearchIcon className="header__searchIcon" />
             </div>
-            {/* 3 Links */}
+
             <div className="header__nav">
                 <Link to="/login" className="header__link">
                     <div className="header__option">
@@ -51,7 +51,7 @@ const Header = () => {
                 </Link>
 
             </div>
-            {/* Basket icon with number */}
+
         </div>
     )
 }
