@@ -17,6 +17,29 @@ function App() {
           <Route path="/">
             <Header />
             <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
+            <h1>Home Page</h1>
           </Route>
         </Switch>
       </div>
